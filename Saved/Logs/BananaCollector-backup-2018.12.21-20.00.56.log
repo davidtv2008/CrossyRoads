@@ -1,0 +1,1336 @@
+﻿Log file open, 12/21/18 11:47:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BananaCollector
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.169101
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.095s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4541578
+LogInit: Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Nov  6 2018 02:04:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=davidtv2010 -epicuserid=07a1d204eb754466a9b5d5c8ef4c3d7b -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.21-19.47.02:691][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.21-19.47.02:691][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.21-19.47.02:691][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Config/Windows/Engine.ini]
+[2018.12.21-19.47.02:691][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.21-19.47.02:691][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Config/Windows/Engine.ini]
+[2018.12.21-19.47.02:691][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Config/Windows/Engine.ini]
+[2018.12.21-19.47.02:691][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.21-19.47.02:691][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.21-19.47.02:691][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.21-19.47.02:691][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.21-19.47.02:691][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.21-19.47.02:691][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.21-19.47.02:691][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.21-19.47.02:691][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.21-19.47.02:691][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.21-19.47.02:691][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.21-19.47.02:691][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.21-19.47.02:691][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.21-19.47.02:691][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.21-19.47.02:691][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Config/Windows/Engine.ini]
+[2018.12.21-19.47.02:691][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.21-19.47.02:691][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.21-19.47.02:691][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.21-19.47.02:692][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.21-19.47.02:692][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.21-19.47.02:692][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.21-19.47.02:692][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.21-19.47.02:692][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.21-19.47.02:692][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.21-19.47.02:692][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.21-19.47.02:692][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.21-19.47.02:692][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.21-19.47.02:692][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.21-19.47.02:692][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.21-19.47.02:692][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Config/Windows/Engine.ini]
+[2018.12.21-19.47.02:692][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Config/Windows/Engine.ini]
+[2018.12.21-19.47.02:694][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-19.47.02:694][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.21-19.47.02:694][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.21-19.47.02:694][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-19.47.02:694][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.21-19.47.02:694][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-19.47.02:694][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.21-19.47.02:694][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.21-19.47.02:694][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.21-19.47.02:694][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.21-19.47.02:694][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.21-19.47.02:694][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.21-19.47.02:694][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.21-19.47.02:694][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.21-19.47.02:694][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.21-19.47.02:694][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.21-19.47.02:694][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.21-19.47.02:694][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.21-19.47.02:694][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.21-19.47.02:694][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.21-19.47.02:694][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.21-19.47.02:694][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.21-19.47.02:694][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.21-19.47.02:694][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.21-19.47.02:695][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-19.47.02:695][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.21-19.47.02:696][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.21-19.47.02:696][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.21-19.47.02:696][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.21-19.47.02:710][  0]LogHAL: Display: Platform has ~ 8 GB [8456409088 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.21-19.47.02:710][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.21-19.47.02:710][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.21-19.47.02:710][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-19.47.02:710][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.21-19.47.02:710][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.21-19.47.02:710][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-19.47.02:710][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.21-19.47.02:710][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-19.47.02:710][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.21-19.47.02:710][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.21-19.47.02:710][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.21-19.47.02:710][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.21-19.47.02:711][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.21-19.47.02:711][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.21-19.47.02:711][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.21-19.47.02:711][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.21-19.47.02:711][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.21-19.47.02:711][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.21-19.47.02:711][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.21-19.47.02:711][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.21-19.47.02:711][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.21-19.47.02:711][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.21-19.47.02:711][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.21-19.47.02:711][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.21-19.47.02:711][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.21-19.47.02:712][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.21-19.47.02:712][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-19.47.02:712][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.21-19.47.02:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.21-19.47.02:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.21-19.47.02:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.21-19.47.02:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.21-19.47.02:712][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.21-19.47.02:712][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.21-19.47.02:712][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.21-19.47.02:712][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.21-19.47.02:712][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Config/Windows/Scalability.ini]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.21-19.47.02:713][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.21-19.47.02:714][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.21-19.47.02:714][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Config/Windows/Engine.ini]
+[2018.12.21-19.47.02:714][  0]LogInit: Computer: DESKTOP-HTUF9CF
+[2018.12.21-19.47.02:714][  0]LogInit: User: david
+[2018.12.21-19.47.02:714][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.12.21-19.47.02:714][  0]LogInit: High frequency timer resolution =2.648441 MHz
+[2018.12.21-19.47.02:714][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.12.21-19.47.02:714][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.21-19.47.02:714][  0]LogMemory: Process Physical Memory: 102.98 MB used, 102.98 MB peak
+[2018.12.21-19.47.02:714][  0]LogMemory: Process Virtual Memory: 92.49 MB used, 92.49 MB peak
+[2018.12.21-19.47.02:714][  0]LogMemory: Physical Memory: 3630.93 MB used,  4433.73 MB free, 8064.66 MB total
+[2018.12.21-19.47.02:714][  0]LogMemory: Virtual Memory: 4636.84 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2018.12.21-19.47.02:733][  0]LogInit: Using OS detected language (en-US).
+[2018.12.21-19.47.02:733][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.21-19.47.02:734][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.21-19.47.03:259][  0]LogStreaming: Display: Took  0.527s to InitEngineTextLocalization.
+[2018.12.21-19.47.03:260][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.21-19.47.03:315][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.21-19.47.03:315][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.21-19.47.03:568][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.21-19.47.03:568][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.21-19.47.03:581][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2018.12.21-19.47.03:581][  0]LogD3D11RHI:       128/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.12.21-19.47.03:583][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.21-19.47.03:583][  0]LogD3D11RHI:       0/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.21-19.47.03:583][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.21-19.47.03:588][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.21-19.47.03:588][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.21-19.47.03:588][  0]LogWindows: EnumDisplayDevices:
+[2018.12.21-19.47.03:588][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2018.12.21-19.47.03:588][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.12.21-19.47.03:589][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.12.21-19.47.03:589][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2018.12.21-19.47.03:589][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2018.12.21-19.47.03:589][  0]LogD3D11RHI:   Driver Version: 22.20.16.4749 (internal:22.20.16.4749, unified:22.20.16.4749)
+[2018.12.21-19.47.03:589][  0]LogD3D11RHI:      Driver Date: 7-24-2017
+[2018.12.21-19.47.03:589][  0]LogRHI: Texture pool is 1500 MB (70% of 2144 MB)
+[2018.12.21-19.47.03:619][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2018.12.21-19.47.03:619][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.21-19.47.03:625][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2018.12.21-19.47.04:065][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.21-19.47.04:081][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.21-19.47.04:096][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.21-19.47.04:110][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.21-19.47.04:127][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.21-19.47.04:141][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.21-19.47.04:159][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.21-19.47.04:173][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.21-19.47.04:183][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.21-19.47.04:267][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-19.47.04:267][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-19.47.04:267][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-19.47.04:267][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-19.47.04:267][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-19.47.04:267][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-19.47.04:267][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-19.47.04:267][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-19.47.04:267][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-19.47.04:267][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-19.47.04:267][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-19.47.04:267][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-19.47.04:267][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-19.47.04:267][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-19.47.04:267][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-19.47.04:267][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-19.47.04:267][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-19.47.04:267][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.21-19.47.04:268][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.21-19.47.04:334][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.21-19.47.04:334][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.21-19.47.04:362][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.21-19.47.04:362][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.21-19.47.04:375][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.21-19.47.04:390][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.21-19.47.04:403][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.21-19.47.04:419][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.21-19.47.04:468][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.21-19.47.04:468][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.21-19.47.04:468][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.21-19.47.04:540][  0]LogShaderCompilers: Guid format shader working directory is -41 characters bigger than the processId version (../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Intermediate/Shaders/WorkingDirectory/4284/).
+[2018.12.21-19.47.04:541][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/david/AppData/Local/Temp/UnrealShaderWorkingDir/532D9CA74476300865863D91E57980FF/'.
+[2018.12.21-19.47.04:543][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.21-19.47.04:544][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.21-19.47.04:544][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.21-19.47.05:149][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.21-19.47.05:214][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/david/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.21-19.47.05:214][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/david/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.21-19.47.05:215][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.21-19.47.05:215][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.21-19.47.05:215][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.21-19.47.05:216][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.21-19.47.05:231][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.21-19.47.05:231][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.21-19.47.05:231][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.21-19.47.05:243][  0]LogDerivedDataCache: Using Local data cache path C:/Users/david/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.21-19.47.05:243][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.21-19.47.05:243][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.21-19.47.05:271][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.21-19.47.05:272][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.21-19.47.05:273][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.21-19.47.05:371][  0]LogAssetRegistry: FAssetRegistry took 0.0362 seconds to start up
+[2018.12.21-19.47.05:870][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.21-19.47.06:072][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.21-19.47.06:077][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.21-19.47.06:077][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.21-19.47.06:077][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.21-19.47.06:077][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.21-19.47.06:094][  0]LogNetVersion: BananaCollector 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3010563258)
+[2018.12.21-19.47.06:718][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.104049 seconds
+[2018.12.21-19.47.06:724][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.21-19.47.06:724][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2018.12.21-19.47.06:724][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.21-19.47.07:722][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.21-19.47.07:735][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.21-19.47.08:532][  0]SourceControl: Source control is disabled
+[2018.12.21-19.47.08:532][  0]SourceControl: Source control is disabled
+[2018.12.21-19.47.08:534][  0]SourceControl: Source control is disabled
+[2018.12.21-19.47.08:535][  0]SourceControl: Source control is disabled
+[2018.12.21-19.47.08:708][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.21-19.47.08:772][  0]LogOcInput: OculusInput pre-init called
+[2018.12.21-19.47.08:915][  0]LogEngine: Initializing Engine...
+[2018.12.21-19.47.08:915][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.21-19.47.08:917][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.21-19.47.08:917][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.21-19.47.08:917][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.21-19.47.08:917][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.21-19.47.09:205][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.21-19.47.09:225][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.21-19.47.09:237][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-19.47.09:317][  0]LogInit: FAudioDevice initialized.
+[2018.12.21-19.47.09:317][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.21-19.47.09:496][  0]LogDerivedDataCache: Saved boot cache 0.18s 71MB C:/Users/david/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.21-19.47.09:514][  0]LogInit: Texture streaming: Enabled
+[2018.12.21-19.47.09:537][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.21-19.47.09:551][  0]LogInit: Transaction tracking system initialized
+[2018.12.21-19.47.09:582][  0]BlueprintLog: New page: Editor Load
+[2018.12.21-19.47.09:687][  0]LocalizationService: Localization service is disabled
+[2018.12.21-19.47.10:314][  0]LogFileCache: Scanning file cache for directory 'C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/' took 0.02s
+[2018.12.21-19.47.10:314][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.21-19.47.10:314][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.21-19.47.10:314][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.21-19.47.10:314][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.21-19.47.10:314][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.21-19.47.10:314][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.21-19.47.10:314][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.21-19.47.10:507][  0]SourceControl: Source control is disabled
+[2018.12.21-19.47.10:507][  0]Cmd: MAP LOAD FILE="../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/BananaCollector/Maps/TutorialMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.21-19.47.10:508][  0]LightingResults: New page: Lighting Build
+[2018.12.21-19.47.10:511][  0]MapCheck: New page: Map Check
+[2018.12.21-19.47.10:511][  0]LightingResults: New page: Lighting Build
+[2018.12.21-19.47.11:348][  0]LogAIModule: Creating AISystem for world TutorialMap
+[2018.12.21-19.47.11:472][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.21-19.47.11:506][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.21-19.47.11:507][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.201ms to complete.
+[2018.12.21-19.47.11:507][  0]LogFileHelpers: Loading map 'TutorialMap' took 1.000
+[2018.12.21-19.47.11:652][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-19.47.11:673][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-19.47.11:685][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-19.47.11:698][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-19.47.11:712][  0]LogCollectionManager: Loaded 0 collections in 0.003297 seconds
+[2018.12.21-19.47.11:731][  0]LogFileCache: Scanning file cache for directory 'C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Collections/' took 0.01s
+[2018.12.21-19.47.11:731][  0]LogFileCache: Scanning file cache for directory 'C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/Developers/david/Collections/' took 0.00s
+[2018.12.21-19.47.11:731][  0]LogFileCache: Scanning file cache for directory 'C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/Collections/' took 0.00s
+[2018.12.21-19.47.11:731][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2018.12.21-19.47.11:750][  0]LogContentBrowser: Native class hierarchy populated in 0.0188 seconds. Added 2651 classes and 620 folders.
+[2018.12.21-19.47.11:763][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.21-19.47.11:768][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:769][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:770][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:770][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:771][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:771][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:772][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:773][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:773][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:774][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:774][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:775][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:776][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:776][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:777][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:778][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:778][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:779][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:779][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:779][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:780][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:781][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:782][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:783][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:783][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:784][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.21-19.47.11:849][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.21-19.47.11:855][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.21-19.47.11:936][  0]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.21-19.47.11:940][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.21-19.47.11:950][  0]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.21-19.47.12:061][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.12.21-19.47.13:242][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.21-19.47.13:242][  0]LogLoad: (Engine Initialization) Total time: 12.82 seconds
+[2018.12.21-19.47.13:242][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.21-19.47.13:260][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.21-19.47.13:324][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.21-19.47.13:340][  0]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.21-19.47.13:348][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/' took 0.08s
+[2018.12.21-19.47.13:444][  2]LogAssetRegistry: Asset discovery search completed in 8.0943 seconds
+[2018.12.21-19.47.13:446][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.21-19.47.13:446][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000095 seconds (updated 0 objects)
+[2018.12.21-19.47.16:371][ 39]LogSlate: Took 0.000351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.21-19.47.28:764][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.21-19.47.28:897][278]AssetReimport: New page: Outstanding source content changes 3:47:28 AM
+[2018.12.21-19.47.28:908][278]LogEditorFactories: Performing atomic reimport of [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/coin.obj]
+[2018.12.21-19.47.28:916][278]LogFbx: Loading FBX Scene from C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/coin.obj
+[2018.12.21-19.47.28:918][278]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.21-19.47.28:927][278]LogStaticMesh: Building static mesh coin...
+[2018.12.21-19.47.28:931][278]LogStaticMesh: Built static mesh [0.00s] /Game/CrossyR/Meshes/Objects/coin.coin
+[2018.12.21-19.47.32:104][278]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2018.12.21-19.47.32:113][278]LogEditorFactories: -- imported successfully
+[2018.12.21-19.47.32:158][279]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/crossSign.obj)
+[2018.12.21-19.47.32:168][279]LogFbx: Loading FBX Scene from C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/crossSign.obj
+[2018.12.21-19.47.32:176][279]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.21-19.47.32:195][279]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.21-19.47.33:541][279]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.12.21-19.47.33:810][279]LogStaticMesh: Building static mesh crossSign...
+[2018.12.21-19.47.33:811][279]LogStaticMesh: Built static mesh [0.00s] /Game/CrossyR/Meshes/Objects/crossSign.crossSign
+[2018.12.21-19.47.33:825][279]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.21-19.47.33:897][280]LogEditorFactories: Performing atomic reimport of [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/log.obj]
+[2018.12.21-19.47.33:918][280]LogFbx: Loading FBX Scene from C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/log.obj
+[2018.12.21-19.47.33:924][280]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.21-19.47.33:943][280]LogStaticMesh: Building static mesh log...
+[2018.12.21-19.47.33:946][280]LogStaticMesh: Built static mesh [0.00s] /Game/CrossyR/Meshes/Objects/log.log
+[2018.12.21-19.47.37:065][280]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2018.12.21-19.47.37:069][280]LogEditorFactories: -- imported successfully
+[2018.12.21-19.47.37:114][281]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/redCar.obj)
+[2018.12.21-19.47.37:135][281]LogFbx: Loading FBX Scene from C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/redCar.obj
+[2018.12.21-19.47.37:142][281]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.21-19.47.37:170][281]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.21-19.47.38:228][281]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.12.21-19.47.38:357][281]LogStaticMesh: Building static mesh redCar...
+[2018.12.21-19.47.38:361][281]LogStaticMesh: Built static mesh [0.00s] /Game/CrossyR/Meshes/Objects/redCar.redCar
+[2018.12.21-19.47.38:378][281]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.21-19.47.38:429][282]LogEditorFactories: Performing atomic reimport of [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/taxi.obj]
+[2018.12.21-19.47.38:441][282]LogFbx: Loading FBX Scene from C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/taxi.obj
+[2018.12.21-19.47.38:447][282]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.21-19.47.38:469][282]LogStaticMesh: Building static mesh taxi...
+[2018.12.21-19.47.38:474][282]LogStaticMesh: Built static mesh [0.00s] /Game/CrossyR/Meshes/Objects/taxi.taxi
+[2018.12.21-19.47.39:111][282]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2018.12.21-19.47.39:115][282]LogEditorFactories: -- imported successfully
+[2018.12.21-19.47.39:165][283]LogEditorFactories: Performing atomic reimport of [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/track.obj]
+[2018.12.21-19.47.39:176][283]LogFbx: Loading FBX Scene from C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/track.obj
+[2018.12.21-19.47.39:181][283]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.21-19.47.39:199][283]LogStaticMesh: Building static mesh track...
+[2018.12.21-19.47.39:201][283]LogStaticMesh: Built static mesh [0.00s] /Game/CrossyR/Meshes/Objects/track.track
+[2018.12.21-19.47.39:209][283]LogEditorFactories: -- imported successfully
+[2018.12.21-19.47.39:377][285]LogEditorFactories: Performing atomic reimport of [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/train.obj]
+[2018.12.21-19.47.39:391][285]LogFbx: Loading FBX Scene from C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/train.obj
+[2018.12.21-19.47.39:403][285]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.21-19.47.39:431][285]LogStaticMesh: Building static mesh train...
+[2018.12.21-19.47.39:439][285]LogStaticMesh: Built static mesh [0.01s] /Game/CrossyR/Meshes/Objects/train.train
+[2018.12.21-19.47.39:452][285]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.21-19.47.40:429][285]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2018.12.21-19.47.40:434][285]LogEditorFactories: -- imported successfully
+[2018.12.21-19.47.40:552][286]LogEditorFactories: Performing atomic reimport of [C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/cargoTruck.obj]
+[2018.12.21-19.47.40:563][286]LogFbx: Loading FBX Scene from C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/cargoTruck.obj
+[2018.12.21-19.47.40:572][286]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.21-19.47.40:591][286]LogStaticMesh: Building static mesh cargoTruck...
+[2018.12.21-19.47.40:598][286]LogStaticMesh: Built static mesh [0.01s] /Game/CrossyR/Meshes/Objects/cargoTruck.cargoTruck
+[2018.12.21-19.47.40:609][286]LogEditorFactories: -- imported successfully
+[2018.12.21-19.47.40:678][287]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.21-19.47.40:919][287]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/crossSignF5227CD248C3DA5AF97D279D3E607463.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/crossSign.uasset'
+[2018.12.21-19.47.41:045][287]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/redCarE1823CD2488B033245BBF3AEB5F72C6E.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/redCar.uasset'
+[2018.12.21-19.47.41:172][287]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/cargoTruckBD59A9254BC75D9AFEDCD5A272D79BE0.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/cargoTruck.uasset'
+[2018.12.21-19.47.43:302][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.21-19.47.44:245][332]AssetReimport: Reimported asset coin from C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/coin.obj.
+[2018.12.21-19.47.44:245][332]AssetReimport: Importing new asset /Game/CrossyR/Meshes/Objects/crossSign.
+[2018.12.21-19.47.44:245][332]AssetReimport: Reimported asset log from C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/log.obj.
+[2018.12.21-19.47.44:245][332]AssetReimport: Importing new asset /Game/CrossyR/Meshes/Objects/redCar.
+[2018.12.21-19.47.44:245][332]AssetReimport: Reimported asset taxi from C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/taxi.obj.
+[2018.12.21-19.47.44:245][332]AssetReimport: Reimported asset track from C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/track.obj.
+[2018.12.21-19.47.44:245][332]AssetReimport: Error: Failed to reimport asset track.
+[2018.12.21-19.47.44:246][332]AssetReimport: Reimported asset train from C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/train.obj.
+[2018.12.21-19.47.44:246][332]AssetReimport: Reimported asset cargoTruck from C:/Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/cargoTruck.obj.
+[2018.12.21-19.47.44:492][336]LogSlate: Window 'Message Log' being destroyed
+[2018.12.21-19.47.44:577][336]LogSlate: Window 'Message Log' being destroyed
+[2018.12.21-19.47.45:809][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.21-19.47.45:866][357]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.21-19.47.45:956][357]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.21-19.47.45:956][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.21-19.47.45:957][357]PIE: New page: PIE session: TutorialMap (Dec 21, 2018, 3:47:45 AM)
+[2018.12.21-19.47.45:969][357]LogPlayLevel: Creating play world package: /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap
+[2018.12.21-19.47.45:990][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020944s)
+[2018.12.21-19.47.45:991][357]LogAIModule: Creating AISystem for world TutorialMap
+[2018.12.21-19.47.45:991][357]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2018.12.21-19.47.45:991][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BananaCollector/Maps/TutorialMap.TutorialMap to /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.022250s)
+[2018.12.21-19.47.46:035][357]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-19.47.46:061][357]LogInit: FAudioDevice initialized.
+[2018.12.21-19.47.46:114][357]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.21-19.47.46:125][357]LogWorld: Bringing World /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2018.12.21-11.47.46
+[2018.12.21-19.47.46:132][357]LogWorld: Bringing up level for play took: 0.012152
+[2018.12.21-19.47.46:157][357]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2018.12.21-19.47.46:162][357]PIE: Play in editor start time for /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap 1.151
+[2018.12.21-19.47.46:163][357]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.21-19.48.03:838][766]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.21-19.48.03:839][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-19.48.03:914][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.21-19.48.03:917][766]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.21-19.48.03:946][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-19.48.03:994][767]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.12.21-19.48.05:406][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.21-19.54.16:190][363]LogEditorViewport: Clicking on Actor (LMB): BP_train_C (BP_train)
+[2018.12.21-19.54.17:931][394]Cmd: DELETE
+[2018.12.21-19.54.17:931][394]Cmd: ACTOR DELETE
+[2018.12.21-19.54.17:955][394]LogEditorActor: Deleted Actor: BP_train_C
+[2018.12.21-19.54.18:005][394]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2018.12.21-19.54.18:565][404]LogEditorViewport: Clicking on Actor (LMB): BP__Tax_C (BP__Tax)
+[2018.12.21-19.54.19:006][411]Cmd: DELETE
+[2018.12.21-19.54.19:006][411]Cmd: ACTOR DELETE
+[2018.12.21-19.54.19:031][411]LogEditorActor: Deleted Actor: BP__Tax_C
+[2018.12.21-19.54.19:083][411]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2018.12.21-19.54.19:699][422]LogEditorViewport: Clicking on Actor (LMB): BP_water1_C (BP_water2)
+[2018.12.21-19.54.20:041][427]Cmd: DELETE
+[2018.12.21-19.54.20:042][427]Cmd: ACTOR DELETE
+[2018.12.21-19.54.20:059][427]LogEditorActor: Deleted Actor: BP_water1_C
+[2018.12.21-19.54.20:109][427]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2018.12.21-19.54.20:616][436]LogEditorViewport: Clicking on Actor (LMB): BP_log_C (BP_log)
+[2018.12.21-19.54.21:823][457]Cmd: TRANSACTION UNDO
+[2018.12.21-19.54.21:823][457]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.21-19.54.22:343][464]Cmd: TRANSACTION UNDO
+[2018.12.21-19.54.22:343][464]LogEditorTransaction: Undo Delete Actors
+[2018.12.21-19.54.23:344][481]LogEditorViewport: Clicking on Actor (LMB): BP_log_C (BP_log2)
+[2018.12.21-19.54.24:334][496]Cmd: DELETE
+[2018.12.21-19.54.24:334][496]Cmd: ACTOR DELETE
+[2018.12.21-19.54.24:357][496]LogEditorActor: Deleted Actor: BP_log_C
+[2018.12.21-19.54.24:414][496]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2018.12.21-19.54.25:197][509]LogEditorViewport: Clicking on Actor (LMB): BP_log_C (BP_log)
+[2018.12.21-19.54.25:908][521]Cmd: DELETE
+[2018.12.21-19.54.25:908][521]Cmd: ACTOR DELETE
+[2018.12.21-19.54.25:931][521]LogEditorActor: Deleted Actor: BP_log_C
+[2018.12.21-19.54.25:984][521]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2018.12.21-19.54.27:050][539]LogEditorViewport: Clicking on Actor (LMB): BP_log_C (BP_log3)
+[2018.12.21-19.54.27:528][545]Cmd: DELETE
+[2018.12.21-19.54.27:528][545]Cmd: ACTOR DELETE
+[2018.12.21-19.54.27:558][545]LogEditorActor: Deleted Actor: BP_log_C
+[2018.12.21-19.54.27:622][545]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2018.12.21-19.54.28:191][555]LogEditorViewport: Clicking on Actor (LMB): BP_log_C (BP_log4)
+[2018.12.21-19.54.28:970][567]Cmd: DELETE
+[2018.12.21-19.54.28:970][567]Cmd: ACTOR DELETE
+[2018.12.21-19.54.28:989][567]LogEditorActor: Deleted Actor: BP_log_C
+[2018.12.21-19.54.29:049][567]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2018.12.21-19.55.25:465][332]LogEditorViewport: Clicking on Actor (LMB): BP_taxi_C (BP_taxi2)
+[2018.12.21-19.55.26:658][352]Cmd: DELETE
+[2018.12.21-19.55.26:659][352]Cmd: ACTOR DELETE
+[2018.12.21-19.55.26:676][352]LogEditorActor: Deleted Actor: BP_taxi_C
+[2018.12.21-19.55.26:732][352]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2018.12.21-19.55.32:286][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.21-19.55.32:340][453]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.21-19.55.32:465][453]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.21-19.55.32:466][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.21-19.55.32:466][453]PIE: New page: PIE session: TutorialMap (Dec 21, 2018, 3:55:32 AM)
+[2018.12.21-19.55.32:466][453]LogPlayLevel: Creating play world package: /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap
+[2018.12.21-19.55.32:478][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012199s)
+[2018.12.21-19.55.32:479][453]LogAIModule: Creating AISystem for world TutorialMap
+[2018.12.21-19.55.32:479][453]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2018.12.21-19.55.32:479][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BananaCollector/Maps/TutorialMap.TutorialMap to /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.013281s)
+[2018.12.21-19.55.32:507][453]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.21-19.55.32:523][453]LogInit: FAudioDevice initialized.
+[2018.12.21-19.55.32:554][453]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.21-19.55.32:558][453]LogWorld: Bringing World /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2018.12.21-11.55.32
+[2018.12.21-19.55.32:558][453]LogWorld: Bringing up level for play took: 0.003596
+[2018.12.21-19.55.32:573][453]PIE: Play in editor start time for /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap -0.438
+[2018.12.21-19.55.32:573][453]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.21-19.55.37:725][578]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.21-19.55.37:726][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-19.55.37:810][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.21-19.55.37:811][578]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.21-19.55.37:841][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.21-19.55.37:892][579]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.12.21-19.55.39:516][608]LogEditorViewport: Clicking on Actor (LMB): BP_coin_C (BP_coin)
+[2018.12.21-19.55.42:696][662]Cmd: DELETE
+[2018.12.21-19.55.42:697][662]Cmd: ACTOR DELETE
+[2018.12.21-19.55.42:713][662]LogEditorActor: Deleted Actor: BP_coin_C
+[2018.12.21-19.55.42:761][662]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2018.12.21-19.55.44:663][695]LogEditorViewport: Clicking on Actor (LMB): BP_coin_C (BP_coin2)
+[2018.12.21-19.55.45:299][705]Cmd: DELETE
+[2018.12.21-19.55.45:300][705]Cmd: ACTOR DELETE
+[2018.12.21-19.55.45:318][705]LogEditorActor: Deleted Actor: BP_coin_C
+[2018.12.21-19.55.45:380][705]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2018.12.21-19.55.50:710][797]LogEditorViewport: Clicking on Actor (LMB): BP_coin_C (BP_coin3)
+[2018.12.21-19.55.51:334][807]Cmd: DELETE
+[2018.12.21-19.55.51:334][807]Cmd: ACTOR DELETE
+[2018.12.21-19.55.51:353][807]LogEditorActor: Deleted Actor: BP_coin_C
+[2018.12.21-19.55.51:408][807]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2018.12.21-19.56.26:301][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.21-19.56.46:789][495]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.21-19.56.57:979][572]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.21-19.57.02:883][600]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.21-19.57.11:428][641]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.21-19.57.15:560][662]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.21-19.57.19:056][682]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.21-19.57.27:656][747]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.21-19.57.38:850][874]Cmd: DELETE
+[2018.12.21-19.57.38:850][874]Cmd: ACTOR DELETE
+[2018.12.21-19.57.38:868][874]LogEditorActor: Deleted Actor: BP__Tax_C
+[2018.12.21-19.57.38:917][874]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2018.12.21-19.57.42:048][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.21-19.57.52:027][968]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.21-19.57.55:162][983]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.21-19.57.58:217][999]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.21-19.58.08:664][ 76]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.21-19.59.51:247][113]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/OneDrive/Documents/CrossyRoads/Models/cargoTruck.obj)
+[2018.12.21-19.59.51:262][113]LogFbx: Loading FBX Scene from ../../../../../../Users/david/OneDrive/Documents/CrossyRoads/Models/cargoTruck.obj
+[2018.12.21-19.59.51:268][113]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.21-19.59.52:591][113]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.12.21-19.59.52:652][113]LogStaticMesh: Building static mesh cargoTruck...
+[2018.12.21-19.59.52:656][113]LogStaticMesh: Built static mesh [0.00s] /Game/CrossyR/Meshes/Objects/cargoTruck.cargoTruck
+[2018.12.21-19.59.52:657][113]LogStaticMesh: Warning: cargoTruck has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.21-19.59.52:658][113]LogStaticMesh: Warning: cargoTruck has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.21-19.59.52:668][113]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.12.21-19.59.52:670][113]FBXImport: Warning: cargoTruck has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.21-19.59.52:671][113]FBXImport: Warning: cargoTruck has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.21-19.59.52:695][113]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/OneDrive/Documents/CrossyRoads/Models/coin.obj)
+[2018.12.21-19.59.52:713][113]LogFbx: Loading FBX Scene from ../../../../../../Users/david/OneDrive/Documents/CrossyRoads/Models/coin.obj
+[2018.12.21-19.59.52:723][113]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.21-19.59.52:727][113]LogStaticMesh: Building static mesh coin...
+[2018.12.21-19.59.52:728][113]LogStaticMesh: Built static mesh [0.00s] /Game/CrossyR/Meshes/Objects/coin.coin
+[2018.12.21-19.59.52:728][113]LogStaticMesh: Warning: coin has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.21-19.59.52:728][113]LogStaticMesh: Warning: coin has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.21-19.59.52:741][113]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.12.21-19.59.52:742][113]FBXImport: Warning: coin has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.21-19.59.52:742][113]FBXImport: Warning: coin has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.21-19.59.52:748][113]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/OneDrive/Documents/CrossyRoads/Models/crossSign.obj)
+[2018.12.21-19.59.52:761][113]LogFbx: Loading FBX Scene from ../../../../../../Users/david/OneDrive/Documents/CrossyRoads/Models/crossSign.obj
+[2018.12.21-19.59.52:765][113]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.21-19.59.52:771][113]LogStaticMesh: Building static mesh crossSign...
+[2018.12.21-19.59.52:774][113]LogStaticMesh: Built static mesh [0.00s] /Game/CrossyR/Meshes/Objects/crossSign.crossSign
+[2018.12.21-19.59.52:775][113]LogStaticMesh: Warning: crossSign has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.21-19.59.52:775][113]LogStaticMesh: Warning: crossSign has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.21-19.59.52:783][113]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.12.21-19.59.52:784][113]FBXImport: Warning: crossSign has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.21-19.59.52:785][113]FBXImport: Warning: crossSign has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.21-19.59.52:792][113]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/OneDrive/Documents/CrossyRoads/Models/grass.obj)
+[2018.12.21-19.59.52:808][113]LogFbx: Loading FBX Scene from ../../../../../../Users/david/OneDrive/Documents/CrossyRoads/Models/grass.obj
+[2018.12.21-19.59.52:809][113]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.21-19.59.52:813][113]LogStaticMesh: Building static mesh grass...
+[2018.12.21-19.59.52:813][113]LogStaticMesh: Built static mesh [0.00s] /Game/CrossyR/Meshes/Objects/grass.grass
+[2018.12.21-19.59.52:814][113]LogStaticMesh: Warning: grass has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.21-19.59.52:814][113]LogStaticMesh: Warning: grass has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.21-19.59.52:826][113]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.12.21-19.59.52:827][113]FBXImport: Warning: grass has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.21-19.59.52:827][113]FBXImport: Warning: grass has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.21-19.59.52:836][113]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/OneDrive/Documents/CrossyRoads/Models/log.obj)
+[2018.12.21-19.59.52:851][113]LogFbx: Loading FBX Scene from ../../../../../../Users/david/OneDrive/Documents/CrossyRoads/Models/log.obj
+[2018.12.21-19.59.52:858][113]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.21-19.59.52:862][113]LogStaticMesh: Building static mesh log...
+[2018.12.21-19.59.52:864][113]LogStaticMesh: Built static mesh [0.00s] /Game/CrossyR/Meshes/Objects/log.log
+[2018.12.21-19.59.52:865][113]LogStaticMesh: Warning: log has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.21-19.59.52:865][113]LogStaticMesh: Warning: log has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.21-19.59.52:878][113]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.12.21-19.59.52:878][113]FBXImport: Warning: log has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.21-19.59.52:878][113]FBXImport: Warning: log has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.21-19.59.52:894][113]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/OneDrive/Documents/CrossyRoads/Models/redCar.obj)
+[2018.12.21-19.59.52:906][113]LogFbx: Loading FBX Scene from ../../../../../../Users/david/OneDrive/Documents/CrossyRoads/Models/redCar.obj
+[2018.12.21-19.59.52:918][113]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.21-19.59.52:923][113]LogStaticMesh: Building static mesh redCar...
+[2018.12.21-19.59.52:927][113]LogStaticMesh: Built static mesh [0.00s] /Game/CrossyR/Meshes/Objects/redCar.redCar
+[2018.12.21-19.59.52:928][113]LogStaticMesh: Warning: redCar has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.21-19.59.52:928][113]LogStaticMesh: Warning: redCar has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.21-19.59.52:938][113]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.12.21-19.59.52:938][113]FBXImport: Warning: redCar has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.21-19.59.52:938][113]FBXImport: Warning: redCar has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.21-19.59.52:962][113]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/OneDrive/Documents/CrossyRoads/Models/taxi.obj)
+[2018.12.21-19.59.52:977][113]LogFbx: Loading FBX Scene from ../../../../../../Users/david/OneDrive/Documents/CrossyRoads/Models/taxi.obj
+[2018.12.21-19.59.52:984][113]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.21-19.59.52:990][113]LogStaticMesh: Building static mesh taxi...
+[2018.12.21-19.59.52:995][113]LogStaticMesh: Built static mesh [0.00s] /Game/CrossyR/Meshes/Objects/taxi.taxi
+[2018.12.21-19.59.52:996][113]LogStaticMesh: Warning: taxi has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.21-19.59.52:996][113]LogStaticMesh: Warning: taxi has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.21-19.59.53:005][113]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.12.21-19.59.53:005][113]FBXImport: Warning: taxi has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.21-19.59.53:005][113]FBXImport: Warning: taxi has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.21-19.59.53:016][113]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/OneDrive/Documents/CrossyRoads/Models/Taxi2.obj)
+[2018.12.21-19.59.53:029][113]LogFbx: Loading FBX Scene from ../../../../../../Users/david/OneDrive/Documents/CrossyRoads/Models/Taxi2.obj
+[2018.12.21-19.59.53:044][113]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.21-19.59.53:053][113]LogStaticMesh: Building static mesh Taxi2...
+[2018.12.21-19.59.53:060][113]LogStaticMesh: Built static mesh [0.01s] /Game/CrossyR/Meshes/Objects/Taxi2.Taxi2
+[2018.12.21-19.59.53:061][113]LogStaticMesh: Warning: Taxi2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.21-19.59.53:061][113]LogStaticMesh: Warning: Taxi2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.21-19.59.53:077][113]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.12.21-19.59.53:077][113]FBXImport: Warning: Taxi2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.21-19.59.53:077][113]FBXImport: Warning: Taxi2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.21-19.59.53:092][113]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/OneDrive/Documents/CrossyRoads/Models/train.obj)
+[2018.12.21-19.59.53:102][113]LogFbx: Loading FBX Scene from ../../../../../../Users/david/OneDrive/Documents/CrossyRoads/Models/train.obj
+[2018.12.21-19.59.53:112][113]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.21-19.59.53:121][113]LogStaticMesh: Building static mesh train...
+[2018.12.21-19.59.53:127][113]LogStaticMesh: Built static mesh [0.01s] /Game/CrossyR/Meshes/Objects/train.train
+[2018.12.21-19.59.53:128][113]LogStaticMesh: Warning: train has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.21-19.59.53:129][113]LogStaticMesh: Warning: train has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.21-19.59.53:137][113]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.12.21-19.59.53:137][113]FBXImport: Warning: train has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.21-19.59.53:137][113]FBXImport: Warning: train has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.21-19.59.53:146][113]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/OneDrive/Documents/CrossyRoads/Models/treeMedium.obj)
+[2018.12.21-19.59.53:157][113]LogFbx: Loading FBX Scene from ../../../../../../Users/david/OneDrive/Documents/CrossyRoads/Models/treeMedium.obj
+[2018.12.21-19.59.53:160][113]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.21-19.59.53:165][113]LogStaticMesh: Building static mesh treeMedium...
+[2018.12.21-19.59.53:166][113]LogStaticMesh: Built static mesh [0.00s] /Game/CrossyR/Meshes/Objects/treeMedium.treeMedium
+[2018.12.21-19.59.53:167][113]LogStaticMesh: Warning: treeMedium has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.21-19.59.53:167][113]LogStaticMesh: Warning: treeMedium has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.21-19.59.53:181][113]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.12.21-19.59.53:182][113]FBXImport: Warning: treeMedium has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.21-19.59.53:182][113]FBXImport: Warning: treeMedium has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.21-19.59.53:189][113]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/OneDrive/Documents/CrossyRoads/Models/treeSmall.obj)
+[2018.12.21-19.59.53:202][113]LogFbx: Loading FBX Scene from ../../../../../../Users/david/OneDrive/Documents/CrossyRoads/Models/treeSmall.obj
+[2018.12.21-19.59.53:203][113]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.21-19.59.53:210][113]LogStaticMesh: Building static mesh treeSmall...
+[2018.12.21-19.59.53:211][113]LogStaticMesh: Built static mesh [0.00s] /Game/CrossyR/Meshes/Objects/treeSmall.treeSmall
+[2018.12.21-19.59.53:212][113]LogStaticMesh: Warning: treeSmall has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.21-19.59.53:212][113]LogStaticMesh: Warning: treeSmall has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.21-19.59.53:223][113]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.12.21-19.59.53:223][113]FBXImport: Warning: treeSmall has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.21-19.59.53:223][113]FBXImport: Warning: treeSmall has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.21-19.59.53:230][113]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/OneDrive/Documents/CrossyRoads/Models/treeTall.obj)
+[2018.12.21-19.59.53:244][113]LogFbx: Loading FBX Scene from ../../../../../../Users/david/OneDrive/Documents/CrossyRoads/Models/treeTall.obj
+[2018.12.21-19.59.53:247][113]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.21-19.59.53:252][113]LogStaticMesh: Building static mesh treeTall...
+[2018.12.21-19.59.53:253][113]LogStaticMesh: Built static mesh [0.00s] /Game/CrossyR/Meshes/Objects/treeTall.treeTall
+[2018.12.21-19.59.53:254][113]LogStaticMesh: Warning: treeTall has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.21-19.59.53:254][113]LogStaticMesh: Warning: treeTall has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.21-19.59.53:264][113]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.12.21-19.59.53:264][113]FBXImport: Warning: treeTall has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.21-19.59.53:264][113]FBXImport: Warning: treeTall has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.21-19.59.53:421][114]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.12.21-19.59.56:366][143]LogSlate: Window 'Message Log' being destroyed
+[2018.12.21-19.59.56:429][143]LogSlate: Window 'Message Log' being destroyed
+[2018.12.21-19.59.56:858][144]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/TutorialMap_Auto1B12AA2E9477D19E315B68ABF8FD1CF0C.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Autosaves/Game/BananaCollector/Maps/TutorialMap_Auto1.umap'
+[2018.12.21-19.59.56:869][144]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BananaCollector/Maps/TutorialMap' took 0.241
+[2018.12.21-19.59.56:869][144]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.241
+[2018.12.21-19.59.56:870][144]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CrossyR/Meshes/Objects/BP__Tax] ([1] browsable assets)...
+[2018.12.21-19.59.56:870][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/CrossyR/Meshes/Objects/BP__Tax]
+[2018.12.21-19.59.56:902][144]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/BP__Tax_Auto1A5C564D44721748503C13596C9ADF263.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Autosaves/Game/CrossyR/Meshes/Objects/BP__Tax_Auto1.uasset'
+[2018.12.21-19.59.56:903][144]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CrossyR/Meshes/Objects/treeMedium] ([1] browsable assets)...
+[2018.12.21-19.59.56:941][144]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CrossyR/Meshes/Objects/treeMedium.treeMedium]
+[2018.12.21-19.59.56:941][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/CrossyR/Meshes/Objects/treeMedium]
+[2018.12.21-19.59.56:962][144]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/treeMedium_Auto1C4D3CFC14CDA9AFE522120890F8760DB.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Autosaves/Game/CrossyR/Meshes/Objects/treeMedium_Auto1.uasset'
+[2018.12.21-19.59.56:963][144]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CrossyR/Meshes/Objects/BP_coin] ([1] browsable assets)...
+[2018.12.21-19.59.56:963][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/CrossyR/Meshes/Objects/BP_coin]
+[2018.12.21-19.59.56:989][144]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/BP_coin_Auto1AAF4C10C4DECB38B9384BF92FC330526.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Autosaves/Game/CrossyR/Meshes/Objects/BP_coin_Auto1.uasset'
+[2018.12.21-19.59.56:990][144]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CrossyR/Meshes/Objects/grass] ([1] browsable assets)...
+[2018.12.21-19.59.57:025][144]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CrossyR/Meshes/Objects/grass.grass]
+[2018.12.21-19.59.57:025][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/CrossyR/Meshes/Objects/grass]
+[2018.12.21-19.59.57:048][144]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/grass_Auto1656DAE93459376EDBD76A291C2A9BD96.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Autosaves/Game/CrossyR/Meshes/Objects/grass_Auto1.uasset'
+[2018.12.21-19.59.57:050][144]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CrossyR/Meshes/Objects/BP_log] ([1] browsable assets)...
+[2018.12.21-19.59.57:050][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/CrossyR/Meshes/Objects/BP_log]
+[2018.12.21-19.59.57:074][144]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/BP_log_Auto1C9FB82624E8C6564EB8CF4A2D014A144.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Autosaves/Game/CrossyR/Meshes/Objects/BP_log_Auto1.uasset'
+[2018.12.21-19.59.57:079][144]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CrossyR/Meshes/Objects/Taxi2] ([1] browsable assets)...
+[2018.12.21-19.59.57:114][144]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CrossyR/Meshes/Objects/Taxi2.Taxi2]
+[2018.12.21-19.59.57:114][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/CrossyR/Meshes/Objects/Taxi2]
+[2018.12.21-19.59.57:133][144]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Taxi2_Auto119D2C365487737C3016EE9B23763EA45.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Autosaves/Game/CrossyR/Meshes/Objects/Taxi2_Auto1.uasset'
+[2018.12.21-19.59.57:134][144]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CrossyR/Meshes/Objects/BP_taxi] ([1] browsable assets)...
+[2018.12.21-19.59.57:135][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/CrossyR/Meshes/Objects/BP_taxi]
+[2018.12.21-19.59.57:161][144]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/BP_taxi_Auto1B7E037004D773495113D23B1EC706EFD.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Autosaves/Game/CrossyR/Meshes/Objects/BP_taxi_Auto1.uasset'
+[2018.12.21-19.59.57:162][144]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CrossyR/Meshes/Objects/BP_track] ([1] browsable assets)...
+[2018.12.21-19.59.57:196][144]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CrossyR/Meshes/Objects/BP_track.BP_track]
+[2018.12.21-19.59.57:196][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/CrossyR/Meshes/Objects/BP_track]
+[2018.12.21-19.59.57:235][144]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/BP_track_Auto15ECBAFE54F421F86A3E45E8DD8D6AB72.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Autosaves/Game/CrossyR/Meshes/Objects/BP_track_Auto1.uasset'
+[2018.12.21-19.59.57:237][144]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CrossyR/Meshes/Objects/track] ([1] browsable assets)...
+[2018.12.21-19.59.57:279][144]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CrossyR/Meshes/Objects/track.track]
+[2018.12.21-19.59.57:279][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/CrossyR/Meshes/Objects/track]
+[2018.12.21-19.59.57:315][144]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/track_Auto10E6387EF4E9F4A5138181DBA533EE4AD.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Autosaves/Game/CrossyR/Meshes/Objects/track_Auto1.uasset'
+[2018.12.21-19.59.57:317][144]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CrossyR/Meshes/Objects/BP_train] ([1] browsable assets)...
+[2018.12.21-19.59.57:318][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/CrossyR/Meshes/Objects/BP_train]
+[2018.12.21-19.59.57:351][144]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/BP_train_Auto103E971544D035693D5C43B85B68D6FD3.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Autosaves/Game/CrossyR/Meshes/Objects/BP_train_Auto1.uasset'
+[2018.12.21-19.59.57:352][144]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CrossyR/Meshes/Objects/cargoTruck] ([1] browsable assets)...
+[2018.12.21-19.59.57:392][144]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CrossyR/Meshes/Objects/cargoTruck.cargoTruck]
+[2018.12.21-19.59.57:392][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/CrossyR/Meshes/Objects/cargoTruck]
+[2018.12.21-19.59.57:418][144]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/cargoTruck_Auto12A73E7924EFA6E2AD6F6719BF5501577.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Autosaves/Game/CrossyR/Meshes/Objects/cargoTruck_Auto1.uasset'
+[2018.12.21-19.59.57:420][144]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CrossyR/Meshes/Objects/taxi] ([1] browsable assets)...
+[2018.12.21-19.59.57:459][144]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CrossyR/Meshes/Objects/taxi.taxi]
+[2018.12.21-19.59.57:459][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/CrossyR/Meshes/Objects/taxi]
+[2018.12.21-19.59.57:484][144]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/taxi_Auto1338580AE4F3EDC6E369AB9B34997BE6E.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Autosaves/Game/CrossyR/Meshes/Objects/taxi_Auto1.uasset'
+[2018.12.21-19.59.57:485][144]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CrossyR/Meshes/Objects/redCar] ([1] browsable assets)...
+[2018.12.21-19.59.57:521][144]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CrossyR/Meshes/Objects/redCar.redCar]
+[2018.12.21-19.59.57:521][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/CrossyR/Meshes/Objects/redCar]
+[2018.12.21-19.59.57:539][144]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/redCar_Auto1C00147CA4BBE63DA69F688BAFD8851ED.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Autosaves/Game/CrossyR/Meshes/Objects/redCar_Auto1.uasset'
+[2018.12.21-19.59.57:541][144]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CrossyR/Meshes/Objects/train] ([1] browsable assets)...
+[2018.12.21-19.59.57:580][144]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CrossyR/Meshes/Objects/train.train]
+[2018.12.21-19.59.57:580][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/CrossyR/Meshes/Objects/train]
+[2018.12.21-19.59.57:599][144]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/train_Auto11331E60040841902AF6A138ACFD74D47.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Autosaves/Game/CrossyR/Meshes/Objects/train_Auto1.uasset'
+[2018.12.21-19.59.57:600][144]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CrossyR/Meshes/Objects/log] ([1] browsable assets)...
+[2018.12.21-19.59.57:638][144]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CrossyR/Meshes/Objects/log.log]
+[2018.12.21-19.59.57:638][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/CrossyR/Meshes/Objects/log]
+[2018.12.21-19.59.57:659][144]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/log_Auto18144E1E14C94727672E8518B4CDFA589.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Autosaves/Game/CrossyR/Meshes/Objects/log_Auto1.uasset'
+[2018.12.21-19.59.57:660][144]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CrossyR/Meshes/Objects/crossSign] ([1] browsable assets)...
+[2018.12.21-19.59.57:699][144]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CrossyR/Meshes/Objects/crossSign.crossSign]
+[2018.12.21-19.59.57:699][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/CrossyR/Meshes/Objects/crossSign]
+[2018.12.21-19.59.57:721][144]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/crossSign_Auto1CA3CE7EC4AF8E3CEAF568886224F0178.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Autosaves/Game/CrossyR/Meshes/Objects/crossSign_Auto1.uasset'
+[2018.12.21-19.59.57:723][144]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CrossyR/Meshes/Objects/coin] ([1] browsable assets)...
+[2018.12.21-19.59.57:760][144]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CrossyR/Meshes/Objects/coin.coin]
+[2018.12.21-19.59.57:760][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/CrossyR/Meshes/Objects/coin]
+[2018.12.21-19.59.57:781][144]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/coin_Auto11891D53A44C9B7ADAE248692C022FCD0.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Autosaves/Game/CrossyR/Meshes/Objects/coin_Auto1.uasset'
+[2018.12.21-19.59.57:783][144]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CrossyR/Meshes/Objects/treeSmall] ([1] browsable assets)...
+[2018.12.21-19.59.57:821][144]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CrossyR/Meshes/Objects/treeSmall.treeSmall]
+[2018.12.21-19.59.57:821][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/CrossyR/Meshes/Objects/treeSmall]
+[2018.12.21-19.59.57:840][144]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/treeSmall_Auto1DBB2608D4572371180BBB2892A36C4A4.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Autosaves/Game/CrossyR/Meshes/Objects/treeSmall_Auto1.uasset'
+[2018.12.21-19.59.57:841][144]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CrossyR/Meshes/Objects/treeTall] ([1] browsable assets)...
+[2018.12.21-19.59.57:888][144]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CrossyR/Meshes/Objects/treeTall.treeTall]
+[2018.12.21-19.59.57:888][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/CrossyR/Meshes/Objects/treeTall]
+[2018.12.21-19.59.57:909][144]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/treeTall_Auto116BACF354EF65DEE0A6FD4A73917FC4F.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Autosaves/Game/CrossyR/Meshes/Objects/treeTall_Auto1.uasset'
+[2018.12.21-19.59.57:911][144]LogFileHelpers: Auto-saving content packages took 1.041
+[2018.12.21-20.00.13:267][331]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (19.846 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.12.21-20.00.19:315][437]Cmd: DELETE
+[2018.12.21-20.00.19:316][437]Cmd: ACTOR DELETE
+[2018.12.21-20.00.19:339][437]LogEditorActor: Deleted Actor: BP_coin_C
+[2018.12.21-20.00.19:392][437]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2018.12.21-20.00.20:988][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.21-20.00.21:195][460]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CrossyR/Meshes/Objects/BP_coin.BP_coin
+[2018.12.21-20.00.21:844][460]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2018.12.21-20.00.22:738][460]LogSlate: Took 0.001922 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.21-20.00.24:386][480]LogRenderer: Reallocating scene render targets to support 1296x712 Format 10 NumSamples 1 (Frame:1).
+[2018.12.21-20.00.26:857][501]LogSlate: Took 0.000461 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.21-20.00.35:144][565]BlueprintLog: New page: Compile BP_coin
+[2018.12.21-20.00.37:643][586]LogSlate: Window 'BP_coin*' being destroyed
+[2018.12.21-20.00.37:758][586]LogSlate: Window 'BP_coin*' being destroyed
+[2018.12.21-20.00.45:764][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.21-20.00.46:226][702]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/TutorialMapC5AED72D4CA9053497ADE79FFEA33655.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/BananaCollector/Maps/TutorialMap.umap'
+[2018.12.21-20.00.46:293][702]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/TutorialMap_BuiltData058C205B467F192EF44DF1BC5A8CA7E2.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Maps/TutorialMap_BuiltData.uasset'
+[2018.12.21-20.00.50:403][763]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/TutorialMap8805F42348851A922D6F9FB2EC9B77AC.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/BananaCollector/Maps/TutorialMap.umap'
+[2018.12.21-20.00.50:455][763]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/TutorialMap_BuiltData6D4AEEF44D9472B8407D7B9045C4B89B.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Maps/TutorialMap_BuiltData.uasset'
+[2018.12.21-20.00.52:180][789]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/BP__TaxC3CF26E54249AC87B6396F84166F3FBB.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/BP__Tax.uasset'
+[2018.12.21-20.00.52:205][789]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/treeMedium18AA60DD4041C27CDA5E77B7FF55DF88.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/treeMedium.uasset'
+[2018.12.21-20.00.52:286][789]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/BP_coinAD1B646D463210AEE7AD4E864BA4DA1C.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/BP_coin.uasset'
+[2018.12.21-20.00.52:313][789]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/grassA0B57E5148ED939DEE7B3CA982F5CF5C.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/grass.uasset'
+[2018.12.21-20.00.52:346][789]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/BP_logDDBED88442C4E82B6F511CB5563EB094.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/BP_log.uasset'
+[2018.12.21-20.00.52:374][789]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/Taxi2235C47544A3DD1A82287B5984821757E.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/Taxi2.uasset'
+[2018.12.21-20.00.52:409][789]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/BP_taxi98275A354F35ABC8447BDCAE2CED713C.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/BP_taxi.uasset'
+[2018.12.21-20.00.52:451][789]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/BP_track89F53D444F35FAFD3C5D4E89C14F3FD2.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/BP_track.uasset'
+[2018.12.21-20.00.52:481][789]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/track866C052A46F10526517E71911365853D.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/track.uasset'
+[2018.12.21-20.00.52:514][789]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/BP_trainD05EE7454505F9654472B49D11C5B488.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/BP_train.uasset'
+[2018.12.21-20.00.52:540][789]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/cargoTruck86A42F104E223536A5BD91995FD5C7C1.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/cargoTruck.uasset'
+[2018.12.21-20.00.52:565][789]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/taxi0B50AF074BAB0937C27147A2B4B2300F.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/taxi.uasset'
+[2018.12.21-20.00.52:589][789]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/redCarB0AF62A04096415AAEA000AD6DC693D6.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/redCar.uasset'
+[2018.12.21-20.00.52:616][789]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/train7135E1F248D34EE1A7E6A7B79BA830C3.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/train.uasset'
+[2018.12.21-20.00.52:643][789]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/log0DF6CA9D4FF7AE923F93B88F4F35ACF4.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/log.uasset'
+[2018.12.21-20.00.52:669][789]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/crossSignF597302B487E58127F63D093F3916105.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/crossSign.uasset'
+[2018.12.21-20.00.52:692][789]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/coin19F59CBE485824200D13DEA034238B4D.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/coin.uasset'
+[2018.12.21-20.00.52:716][789]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/treeSmall763DD07F4FA69F66C16E5096135617E8.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/treeSmall.uasset'
+[2018.12.21-20.00.52:739][789]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Saved/treeTallCA853983439E62AF7C5DEC8F0B60B24A.tmp' to '../../../../../../Users/david/OneDrive/Documents/Unreal Projects/BananaCollectorStarter/Content/CrossyR/Meshes/Objects/treeTall.uasset'
+[2018.12.21-20.00.54:395][813]LogSlate: Window 'BananaCollector - Unreal Editor' being destroyed
+[2018.12.21-20.00.54:395][813]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.21-20.00.54:688][814]Cmd: QUIT_EDITOR
+[2018.12.21-20.00.54:839][814]LogExit: Preparing to exit.
+[2018.12.21-20.00.55:571][814]LogExit: Editor shut down
+[2018.12.21-20.00.55:571][814]LogExit: Transaction tracking system shut down
+[2018.12.21-20.00.55:844][814]LogExit: Object subsystem successfully closed.
+[2018.12.21-20.00.55:868][814]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.21-20.00.55:872][814]LogD3D11RHI: Shutdown
+[2018.12.21-20.00.55:872][814]LogD3D11RHI: CleanupD3DDevice
+[2018.12.21-20.00.55:926][814]LogD3D11RHI: [IntelMetricsDiscovery] Stopped
+[2018.12.21-20.00.55:926][814]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.21-20.00.55:953][814]LogModuleManager: Shutting down and abandoning module BlueprintGraph (632)
+[2018.12.21-20.00.55:953][814]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (630)
+[2018.12.21-20.00.55:953][814]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (628)
+[2018.12.21-20.00.55:953][814]LogModuleManager: Shutting down and abandoning module Voice (626)
+[2018.12.21-20.00.55:953][814]LogModuleManager: Shutting down and abandoning module MeshBuilder (624)
+[2018.12.21-20.00.55:953][814]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2018.12.21-20.00.55:953][814]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2018.12.21-20.00.55:953][814]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2018.12.21-20.00.55:953][814]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2018.12.21-20.00.55:953][814]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2018.12.21-20.00.55:953][814]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2018.12.21-20.00.55:953][814]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2018.12.21-20.00.55:953][814]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2018.12.21-20.00.55:953][814]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2018.12.21-20.00.55:954][814]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2018.12.21-20.00.55:955][814]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2018.12.21-20.00.55:955][814]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2018.12.21-20.00.55:955][814]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2018.12.21-20.00.55:955][814]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2018.12.21-20.00.55:955][814]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2018.12.21-20.00.55:955][814]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2018.12.21-20.00.56:441][814]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2018.12.21-20.00.56:441][814]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2018.12.21-20.00.56:441][814]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2018.12.21-20.00.56:441][814]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2018.12.21-20.00.56:441][814]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2018.12.21-20.00.56:441][814]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2018.12.21-20.00.56:441][814]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2018.12.21-20.00.56:441][814]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2018.12.21-20.00.56:441][814]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2018.12.21-20.00.56:441][814]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2018.12.21-20.00.56:441][814]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2018.12.21-20.00.56:441][814]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2018.12.21-20.00.56:442][814]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2018.12.21-20.00.56:442][814]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2018.12.21-20.00.56:442][814]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2018.12.21-20.00.56:442][814]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2018.12.21-20.00.56:442][814]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2018.12.21-20.00.56:442][814]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2018.12.21-20.00.56:442][814]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2018.12.21-20.00.56:442][814]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2018.12.21-20.00.56:442][814]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2018.12.21-20.00.56:442][814]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2018.12.21-20.00.56:442][814]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2018.12.21-20.00.56:493][814]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2018.12.21-20.00.56:493][814]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2018.12.21-20.00.56:493][814]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2018.12.21-20.00.56:493][814]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2018.12.21-20.00.56:493][814]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2018.12.21-20.00.56:493][814]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2018.12.21-20.00.56:493][814]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2018.12.21-20.00.56:493][814]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2018.12.21-20.00.56:493][814]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2018.12.21-20.00.56:494][814]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2018.12.21-20.00.56:496][814]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2018.12.21-20.00.56:497][814]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2018.12.21-20.00.56:497][814]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2018.12.21-20.00.56:497][814]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2018.12.21-20.00.56:497][814]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2018.12.21-20.00.56:497][814]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2018.12.21-20.00.56:497][814]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2018.12.21-20.00.56:497][814]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2018.12.21-20.00.56:497][814]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2018.12.21-20.00.56:497][814]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2018.12.21-20.00.56:497][814]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2018.12.21-20.00.56:497][814]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2018.12.21-20.00.56:497][814]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2018.12.21-20.00.56:497][814]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2018.12.21-20.00.56:497][814]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2018.12.21-20.00.56:497][814]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2018.12.21-20.00.56:497][814]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2018.12.21-20.00.56:497][814]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2018.12.21-20.00.56:497][814]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2018.12.21-20.00.56:497][814]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2018.12.21-20.00.56:497][814]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2018.12.21-20.00.56:497][814]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2018.12.21-20.00.56:505][814]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.12.21-20.00.56:563][814]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.12.21-20.00.56:563][814]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.12.21-20.00.56:563][814]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.12.21-20.00.56:563][814]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.12.21-20.00.56:563][814]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.12.21-20.00.56:563][814]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.12.21-20.00.56:564][814]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.12.21-20.00.56:564][814]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.12.21-20.00.56:564][814]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.12.21-20.00.56:564][814]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.12.21-20.00.56:564][814]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.12.21-20.00.56:564][814]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.12.21-20.00.56:564][814]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.12.21-20.00.56:564][814]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.12.21-20.00.56:564][814]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2018.12.21-20.00.56:564][814]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2018.12.21-20.00.56:564][814]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.12.21-20.00.56:572][814]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.12.21-20.00.56:573][814]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.12.21-20.00.56:573][814]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2018.12.21-20.00.56:573][814]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2018.12.21-20.00.56:573][814]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2018.12.21-20.00.56:573][814]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2018.12.21-20.00.56:573][814]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2018.12.21-20.00.56:573][814]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2018.12.21-20.00.56:573][814]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2018.12.21-20.00.56:573][814]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2018.12.21-20.00.56:573][814]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2018.12.21-20.00.56:573][814]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2018.12.21-20.00.56:573][814]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2018.12.21-20.00.56:573][814]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2018.12.21-20.00.56:573][814]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.21-20.00.56:573][814]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.21-20.00.56:673][814]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.21-20.00.56:774][814]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.21-20.00.56:774][814]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.21-20.00.56:774][814]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.21-20.00.56:774][814]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.21-20.00.56:774][814]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.21-20.00.56:774][814]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.21-20.00.56:774][814]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.21-20.00.56:774][814]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.21-20.00.56:774][814]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.21-20.00.56:775][814]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.21-20.00.56:775][814]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.21-20.00.56:775][814]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.21-20.00.56:776][814]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.21-20.00.56:776][814]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.21-20.00.56:776][814]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.21-20.00.56:776][814]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.21-20.00.56:776][814]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.21-20.00.56:776][814]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2018.12.21-20.00.56:776][814]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2018.12.21-20.00.56:783][814]LogModuleManager: Shutting down and abandoning module Media (241)
+[2018.12.21-20.00.56:789][814]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2018.12.21-20.00.56:789][814]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2018.12.21-20.00.56:789][814]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2018.12.21-20.00.56:789][814]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2018.12.21-20.00.56:789][814]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2018.12.21-20.00.56:789][814]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2018.12.21-20.00.56:789][814]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2018.12.21-20.00.56:789][814]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2018.12.21-20.00.56:789][814]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2018.12.21-20.00.56:789][814]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2018.12.21-20.00.56:789][814]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2018.12.21-20.00.56:789][814]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2018.12.21-20.00.56:789][814]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2018.12.21-20.00.56:789][814]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2018.12.21-20.00.56:789][814]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2018.12.21-20.00.56:789][814]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2018.12.21-20.00.56:789][814]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2018.12.21-20.00.56:789][814]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2018.12.21-20.00.56:789][814]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2018.12.21-20.00.56:790][814]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2018.12.21-20.00.56:791][814]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2018.12.21-20.00.56:791][814]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2018.12.21-20.00.56:791][814]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2018.12.21-20.00.56:791][814]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2018.12.21-20.00.56:791][814]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2018.12.21-20.00.56:791][814]LogModuleManager: Shutting down and abandoning module Core (186)
+[2018.12.21-20.00.56:791][814]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2018.12.21-20.00.56:791][814]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2018.12.21-20.00.56:791][814]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2018.12.21-20.00.56:791][814]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2018.12.21-20.00.56:791][814]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2018.12.21-20.00.56:791][814]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2018.12.21-20.00.56:791][814]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2018.12.21-20.00.56:791][814]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2018.12.21-20.00.56:791][814]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2018.12.21-20.00.56:791][814]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2018.12.21-20.00.56:791][814]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2018.12.21-20.00.56:791][814]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2018.12.21-20.00.56:833][814]LogDerivedDataCache: Shutdown
+[2018.12.21-20.00.56:833][814]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2018.12.21-20.00.56:833][814]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2018.12.21-20.00.56:833][814]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2018.12.21-20.00.56:833][814]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2018.12.21-20.00.56:833][814]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2018.12.21-20.00.56:833][814]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2018.12.21-20.00.56:833][814]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2018.12.21-20.00.56:833][814]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2018.12.21-20.00.56:833][814]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2018.12.21-20.00.56:833][814]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2018.12.21-20.00.56:833][814]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2018.12.21-20.00.56:833][814]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2018.12.21-20.00.56:833][814]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2018.12.21-20.00.56:833][814]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2018.12.21-20.00.56:833][814]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2018.12.21-20.00.56:833][814]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2018.12.21-20.00.56:833][814]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2018.12.21-20.00.56:833][814]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2018.12.21-20.00.56:834][814]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2018.12.21-20.00.56:834][814]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2018.12.21-20.00.56:834][814]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2018.12.21-20.00.56:834][814]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2018.12.21-20.00.56:834][814]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2018.12.21-20.00.56:835][814]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2018.12.21-20.00.56:835][814]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2018.12.21-20.00.56:835][814]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2018.12.21-20.00.56:835][814]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2018.12.21-20.00.56:840][814]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2018.12.21-20.00.56:840][814]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2018.12.21-20.00.56:840][814]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2018.12.21-20.00.56:840][814]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2018.12.21-20.00.56:840][814]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2018.12.21-20.00.56:840][814]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2018.12.21-20.00.56:840][814]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2018.12.21-20.00.56:840][814]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2018.12.21-20.00.56:840][814]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2018.12.21-20.00.56:840][814]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2018.12.21-20.00.56:840][814]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2018.12.21-20.00.56:841][814]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2018.12.21-20.00.56:841][814]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2018.12.21-20.00.56:841][814]LogHMD: Freeing OpenVRDLLHandle.
+[2018.12.21-20.00.56:841][814]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2018.12.21-20.00.56:841][814]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2018.12.21-20.00.56:841][814]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2018.12.21-20.00.56:841][814]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2018.12.21-20.00.56:841][814]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2018.12.21-20.00.56:841][814]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2018.12.21-20.00.56:842][814]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2018.12.21-20.00.56:876][814]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2018.12.21-20.00.56:876][814]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.21-20.00.56:876][814]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B47A49DEF-4717-6684-5B11-28BAF597838F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=d8111c65427d21000332aeb377bddb79%7C07a1d204eb754466a9b5d5c8ef4c3d7b%7Cac95e1bd-2c0f-4bef-82bb-6a3e0a82465d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.21-20.00.56:892][814]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2018.12.21-20.00.56:895][814]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2018.12.21-20.00.56:895][814]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2018.12.21-20.00.56:895][814]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2018.12.21-20.00.56:895][814]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2018.12.21-20.00.56:895][814]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2018.12.21-20.00.56:895][814]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2018.12.21-20.00.56:895][814]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2018.12.21-20.00.56:895][814]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.21-20.00.56:895][814]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2018.12.21-20.00.56:895][814]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2018.12.21-20.00.56:897][814]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.21-20.00.56:897][814]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.21-20.00.56:897][814]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.21-20.00.56:898][814]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.21-20.00.56:898][814]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.21-20.00.56:898][814]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.21-20.00.56:898][814]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.21-20.00.56:899][814]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.21-20.00.56:899][814]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.21-20.00.56:899][814]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.21-20.00.56:900][814]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.21-20.00.56:900][814]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.21-20.00.56:900][814]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.21-20.00.56:900][814]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.21-20.00.56:900][814]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.21-20.00.56:900][814]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.21-20.00.56:900][814]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.21-20.00.56:900][814]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.21-20.00.56:903][814]LogExit: Exiting.
+[2018.12.21-20.00.56:928][814]Log file closed, 12/21/18 12:00:56
